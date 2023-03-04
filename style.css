@@ -77,4 +77,23 @@ footer {
     display: block;
     width: 100%;
   }
+
+
+
+
+
+
+  .box {
+  width: 90%;
+  margin: 0 auto 20px;
+
+  }
+
+
+
+  .box:last-child {
+
+  margin: 0 auto;
+  }
 }
+
